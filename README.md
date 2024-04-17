@@ -2,8 +2,6 @@
 
 ### Task 1:
 
-> ---
->
 > **Write code to compare to JSON Objects.**  
 > [Source Code](comparingTwoJSON.js)  
 > Explanation:
@@ -23,8 +21,6 @@
 
 ### Task 2:
 
-> ---
->
 > **To display all country flags from https://restcountries.com/v3.1/all** > [Source Code Directory](./country%20flags/)  
 > Explanation:
 >
@@ -40,10 +36,8 @@
 
 ---
 
-### Task 3:
+### Task 3
 
-> ---
->
 > **To display all country details from https://restcountries.com/v3.1/all** > [Source Code Directory](./country%20details/)  
 > Explanation:
 >
@@ -56,5 +50,3 @@
 > - Using the _open()_ method of the _XMLHttpRequest_ object we send a **GET** request to the API URL.
 > - The request is sent by using the _send()_ method of the _XMLHttpRequest_ object.
 >   Inside the listener, the response data is iterated using a for loop and the required details like name, region, sub-region and population is printed to the console of the browser.
->
-> ---
