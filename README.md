@@ -18,8 +18,6 @@
 > - Check 3: Validating whether the two JSON Objects have the same values.
 >
 > Finally, if all the validation criterias are met, the function will return a _true_ value else a _false_ value is returned.
->
-> ---
 
 ---
 
@@ -39,8 +37,6 @@
 > - Using the _open()_ method of the _XMLHttpRequest_ object we send a **GET** request to the API URL.
 > - The request is sent by using the _send()_ method of the _XMLHttpRequest_ object.
 >   Inside the listener, the response data is iterated using a for loop and the required flag data is printed to the console of the browser.
->
-> ---
 
 ---
 
