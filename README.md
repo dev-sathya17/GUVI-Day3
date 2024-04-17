@@ -1,7 +1,7 @@
 # Day3-GUVI
 
-> ### Task 1:
->
+### Task 1:
+
 > ---
 >
 > **Write code to compare to JSON Objects.**  
@@ -21,8 +21,8 @@
 
 ---
 
-> ### Task 2
->
+### Task 2
+
 > ---
 >
 > **To display all country flags from https://restcountries.com/v3.1/all** > [Source Code Directory](./country%20flags/)  
@@ -40,8 +40,8 @@
 
 ---
 
-> ### Task 3
->
+### Task 3
+
 > ---
 >
 > **To display all country details from https://restcountries.com/v3.1/all** > [Source Code Directory](./country%20details/)  
